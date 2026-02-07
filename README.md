@@ -1,4 +1,4 @@
-# rejoelbhutia69
+# rejoelbhutia
 # 💫 About Me:
 Hello, I’m Rejeol Bhutia, currently pursuing a Bachelor of Computer Applications at Medhavi Skills University. I’m an inquisitive learner with a strong interest in Web Development, DevOps, and System Design.
 
